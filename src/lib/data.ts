@@ -72,11 +72,14 @@ export const skills = {
     { title: "HTML", iconPath: "/html.svg" },
     { title: "CSS", iconPath: "/css.svg" },
     { title: "Angular", iconPath: "/angular.svg" },
+    { title: "React", iconPath: "/react.svg" },
+    { title: "Next.js", iconPath: "/next-js.svg" },
     { title: "RxJS", iconPath: "/rxjs.svg" },
     // { title: "NgRx", iconPath: "/ngrx.svg" },
     { title: "Tailwind CSS", iconPath: "/tailwind.svg" },
     { title: "Angular Material", iconPath: "/angular.svg" },
-    // { title: "SASS", iconPath: "/scss.svg" }
+    // { title: "SASS", iconPath: "/scss.svg" },
+
   ],
   backendDevelopment: [
     { title: "Nodejs", iconPath: "/nodejs.svg" },
