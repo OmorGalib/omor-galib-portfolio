@@ -1,8 +1,7 @@
-# Modern Portfolio Template
+# Modern Portfolio
 
 A sleek, responsive portfolio website built with **Astro**, **React**, and **Tailwind CSS**, featuring modern animations and stunning glassmorphism effects.
 
-![Portfolio Screenshot](https://github.com/user-attachments/assets/4f2466f1-1ebe-4cbe-857c-40eccd63c384)
 
 ## ✨ Features
 
@@ -28,7 +27,7 @@ A sleek, responsive portfolio website built with **Astro**, **React**, and **Tai
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/my-portfolio.git
+git clone https://github.com/OmorGalib/omor-galib-portfolio
 cd my-portfolio
 
 # Install dependencies
@@ -159,13 +158,8 @@ yarn preview
 
 Easily deploy to platforms like **Vercel**, **Netlify**, **GitHub Pages**, or any static host of your choice.
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## ©️ Copyright
-
-© 2025 **Rishikesh S.** All rights reserved.
 
 You’re welcome to use this template for your own portfolio — just update `data.ts` and tweak the design as needed. Please keep attribution to the original author.
 
