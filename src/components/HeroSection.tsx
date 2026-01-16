@@ -122,7 +122,7 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Full-stack software engineer with 4+ years of experience building scalable, high-impact applications across the frontend and backend. I craft clean, maintainable code and enjoy turning complex problems into intuitive, user-friendly solutions.
+              🚀 Full-stack software engineer with 2+ years of experience building scalable, high-impact applications across the frontend and backend. I craft clean, maintainable code and enjoy turning complex problems into intuitive, user-friendly solutions.
               Adaptable and results-driven, I bring a balance of technical expertise, creative thinking, and strong collaboration skills to every project. Whether working solo or with cross-functional teams, I’m passionate about continuous learning and delivering real-world impact.
             </p>
           </div>
