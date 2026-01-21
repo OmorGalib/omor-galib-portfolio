@@ -32,7 +32,6 @@ export const workExperience = [
       "Developed and maintained scalable web applications using Angular, Angular Material, SASS, TypeScript, JavaScript, Node.js, NestJS, Restify, PostgreSQL, Knex.js, and Swagger API",
       "Migrated legacy backend services from Restify to a modular NestJS architecture, reducing code complexity by 30%, lowering bug rate by 20%, and improving overall performance and maintainability.",
       "Optimized report generation by offloading it to background jobs with BullMQ and storing results in S3, reducing API response time by over 80% and improving scalability.",
-      "Mentored 3+ interns and junior engineers, guiding them through onboarding, code quality best practices, and technical problem-solving — significantly improving their confidence and contribution to production-level features",
       "Collaborated seamlessly with international stakeholders across multiple time zones to align on priorities, refine requirements, and ensure the successful and timely delivery of high-impact features.",
       "Collaborated closely with cross-functional teams to deliver high-quality features, proactively reviewing pull requests to maintain code quality, uphold standards, and ensure efficient implementation."
     ],
@@ -123,6 +122,18 @@ export const skills = {
 };
 
 export const projects = [
+   {
+    title: "TekumoPro",
+    github: "",
+    projectlink: "https://app.tekumopro.com/public/sign-in",
+    description: [
+      "Tekumo is a platform for intelligent service delivery that handles the \"last-mile\" of installing, and maintaining technology systems.",
+      "Tekumo is a company that specializes in offering a service delivery platform that helps with maintaining and installing smart connected devices and technology systems",
+      "It offers products such as TekumoPRO that connects enterprises, retailers, and original equipment manufacturer (OEMs) with local skilled resources to install and maintain technology systems.",
+      "It delivers a dynamic workforce, automation, live visibility, and full integration into client service management systems.",
+      "Developed and maintained scalable web applications using Angular, Angular Material, SASS, TypeScript, JavaScript, Node.js, NestJS, Restify, PostgreSQL, Knex.js, and Swagger API",
+    ],
+  },
   {
     title: "Academic Management System",
     github: "https://github.com/OmorGalib/academic-dashboard-gain",
@@ -136,6 +147,7 @@ export const projects = [
       "Responsive Design: Accessible on desktop and smartphones, User-friendly interface with intuitive navigation.",
     ],
   },
+
   // {
   //   title: "Langlytics",
   //   github: "github.com",
