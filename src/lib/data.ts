@@ -95,8 +95,8 @@ export const skills = {
 
   ],
   cloudAndDevOps: [
-    { title: "AWS", iconPath: "/aws.svg" },
-    { title: "Docker", iconPath: "/docker.svg" },
+    // { title: "AWS", iconPath: "/aws.svg" },
+    // { title: "Docker", iconPath: "/docker.svg" },
     { title: "Vercel", iconPath: "/vercel.svg" },
     { title: "Netlify", iconPath: "/netlify.svg" }
   ],
