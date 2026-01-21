@@ -15,7 +15,7 @@ A sleek, responsive portfolio website built with **Astro**, **React**, and **Tai
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://rishilol.vercel.app/)
+👉 [Live Demo](https://omor-galib-portfolio.vercel.app/)
 
 ## 🛠 Getting Started
 
