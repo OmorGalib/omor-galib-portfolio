@@ -60,6 +60,18 @@ export const education = [
     degree: "B. Sc. in Computer Science and Engineering",
     period: "2018 - 2023"
   },
+  {
+    institution: "BAF Shaheen College Jessore",
+    location: "Jessore",
+    degree: "Higher Secondary Certificate (HSC)",
+    period: "2014 - 2016"
+  },
+  {
+    institution: "Magura Govt. High School",
+    location: "Magura",
+    degree: "Secondary School Certificate (SSC)",
+    period: "2008 - 2014"
+  },
 ];
 
 export const skills = {
