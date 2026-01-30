@@ -40,7 +40,7 @@ export const workExperience = [
     company: "Softlab IT",
     location: "Onsite - Dhaka",
     position: "Trainee to Jr. Software Engineer",
-    period: "Jan/Oct 2023 - Sep 2024",
+    period: "Oct 2023 - Sep 2024",
     companyProfileLink: "https://www.linkedin.com/company/softlabit/",
     achievements: [
       "Built and maintained websites for clients through various frameworks(Angular, React, NextJS, NodeJS, ExpressJS and MongoDB)",
