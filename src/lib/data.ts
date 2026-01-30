@@ -26,7 +26,7 @@ export const workExperience = [
     company: "Tekumo",
     location: "Remote",
     position: "Jr. Software Engineer to Software Engineer",
-    period: "Oct 2024 - Present",
+    // period: "Oct 2024 - Present",
     companyProfileLink: "https://www.linkedin.com/company/tekumo/about/",
     achievements: [
       "Developed and maintained scalable web applications using Angular, Angular Material, SASS, TypeScript, JavaScript, Node.js, NestJS, Restify, PostgreSQL, Knex.js, and Swagger API",
@@ -40,7 +40,7 @@ export const workExperience = [
     company: "Softlab IT",
     location: "Onsite - Dhaka",
     position: "Trainee to Jr. Software Engineer",
-    period: "Oct 2023 - Sep 2024",
+    // period: "Jan/Oct 2023 - Sep 2024",
     companyProfileLink: "https://www.linkedin.com/company/softlabit/",
     achievements: [
       "Built and maintained websites for clients through various frameworks(Angular, React, NextJS, NodeJS, ExpressJS and MongoDB)",
